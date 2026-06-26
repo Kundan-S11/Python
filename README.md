@@ -1,2 +1,3 @@
 # Python
-my python coses
+my python codes
+by Kundan 
