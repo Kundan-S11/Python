@@ -1,3 +1,3 @@
 # Python
-<p> my python codes </p>
+<p> my python CODES </p>
 <p> by Kundan </p>
